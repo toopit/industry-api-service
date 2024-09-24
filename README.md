@@ -1,2 +1,2 @@
 # industry-api-service
-General-Detailed APIs for Industries.
+General-Detailed APIs for Industries. 
